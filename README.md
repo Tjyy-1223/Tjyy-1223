@@ -45,8 +45,10 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-| ![jy Tian's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjyy-1223&layout=compact&hide_border=true&langs_count=10) | ![力扣数据](https://stats.justsong.cn/api/leetcode?username=Jy_Tian&cn=true) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
+</style>
+
+| ![jy Tian's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjyy-1223&layout=compact&hide_border=true&langs_count=10) | ✨✨✨  | ![力扣数据](https://stats.justsong.cn/api/leetcode?username=Jy_Tian&cn=true) |
+| :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
 
 
 
