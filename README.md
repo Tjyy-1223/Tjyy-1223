@@ -1,10 +1,25 @@
-## 书山有路勤为径，学海无涯苦作舟.👋
+## 书山有路勤为径，学海无涯苦作舟.<img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
 ------
 
+<p align="center" >
+  <samp>
+    My name is <em>Tjyy</em>. I am a Fullstack 'n' mobile developer... 
+  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+    <br/> (<em>ex</em>)Fulltime student.
+      <br/>
+Creating games for fun, composing songs,
+          <br/>
+continuously learning, wanting to help the community
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Jy Tian
+### I'm Jyyyy Tian & Tangerine<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> 
 
 - A NUAA Student
 - 🌱 
