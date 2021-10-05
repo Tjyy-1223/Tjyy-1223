@@ -45,8 +45,12 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
+![id 为 666 的用户的 B 站数据](https://stats.justsong.cn/api/bilibili/?id=344141898)
+
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=Jy_Tian&cn=true)
+
 `https://stats.justsong.cn/api/bilibili/?id=bili_32374267466`
 
-`https://stats.justsong.cn/api/leetcode?username=O50lhSRtlp&cn=true`
+
 
 ⭐️ From [Tjyy-1223](https://github.com/Tjyy-1223)
