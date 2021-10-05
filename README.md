@@ -20,18 +20,16 @@
 
 ### <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" height="50px"/> I’m currently working on ...
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  a finnance mobile app
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  College Computer Knowledge
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  games developed with some friends
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> Complex animations and Gesture Handling on React-Native
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" /> How to get a good night's sleep
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px" /> Unity 'n' Game Design
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px" /> Data Mining
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px" /> Functional Programming
-
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> ML
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Machine Learning
 
   <img align= "right" width= "200" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
