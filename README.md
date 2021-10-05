@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Tjyy</em>.     
+    My name is <em>Jy Tian | Tangerine</em>.     
   <br/> Favorite country is China.
   <br/> Favorite singer is Jay Chou.
   <br/> Favorite team is RNG.
@@ -10,7 +10,6 @@
   <br/> Favorite movie star is Chow Yun-fat
   <br/> Favorite job might be coding? I don't know hhhh...
   </samp>
-  <br/>
   <br/>
   <br/>
 </p>
