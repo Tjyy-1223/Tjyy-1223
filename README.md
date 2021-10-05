@@ -19,7 +19,7 @@ continuously learning, wanting to help the community
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Jyyyy Tian & Tangerine    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 
 - A NUAA Student
 - 🌱 
@@ -27,7 +27,7 @@ continuously learning, wanting to help the community
 - ⭐ 
 - ⚡ 
 
-### 🛠 技术栈 | Tech Stack
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 
 - 💻  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624) ![聚合支付](https://img.shields.io/badge/-%E8%81%9A%E5%90%88%E6%94%AF%E4%BB%98-333333?style=flat&logo=payoneer&logoColor=FF4800)
 - 🌐  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
@@ -38,7 +38,7 @@ continuously learning, wanting to help the community
 
 <img align= "right" width= "200" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-### 开源项目
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 
 - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
 
@@ -46,7 +46,7 @@ continuously learning, wanting to help the community
 
   
 
-### 关于我
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 
 - [技术笔记](https://zhousiwei.gitee.io/ibooks/)
 - [CSDN](https://zhousiwei.blog.csdn.net/)
