@@ -18,7 +18,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" width="5%"/> I’m currently working on ...
+### <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" height="50px"/> I’m currently working on ...
 
 - A NUAA Student
 - 🌱 
