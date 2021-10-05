@@ -45,6 +45,8 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=Tjyy-1223&show_icons=true&hide_border=true)
+`https://stats.justsong.cn/api/bilibili/?id=666`
+
+`https://stats.justsong.cn/api/leetcode?username=leetcode&cn=true`
 
 ⭐️ From [Tjyy-1223](https://github.com/Tjyy-1223)
