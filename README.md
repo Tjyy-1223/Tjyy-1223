@@ -2,13 +2,13 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Tjyy</em>. I am a Fullstack 'n' mobile developer... 
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
-    <br/> (<em>ex</em>)Fulltime student.
-      <br/>
-Creating games for fun, composing songs,
-          <br/>
-continuously learning, wanting to help the community
+    My name is <em>Tjyy</em>.     
+  <br/> Favorite country is China.
+  <br/> Favorite singer is Jay Chou.
+  <br/> Favorite team is RNG.
+  <br/> Favorite basketball player is Steph Curry
+  <br/> Favorite movie star is Chow Yun-fat
+  <br/> Favorite job might be coding? I don't know hhhh...
   </samp>
   <br/>
   <br/>
