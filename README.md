@@ -1,6 +1,6 @@
 ### 学习记录
 
-#### **2021.10 - 未完：读书 《利用python进行数据分析》 **
+#### **2021.10 - 未完：读书 《利用python进行数据分析》**
 
 + 学习笔记：**[ BookNote_PythonForDataAnalysis](https://github.com/Tjyy-1223/BookNote_PythonForDataAnalysis)**
 
