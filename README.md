@@ -1,4 +1,4 @@
-### 学习记录
+### 学习记录：[The_daily_learning_process.md](https://github.com/Tjyy-1223/Tjyy-1223/blob/main/The_daily_learning_process.md)
 
 #### **2021.10 - 未完：读书 《利用python进行数据分析》**
 
