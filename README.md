@@ -8,21 +8,21 @@
 
 #### **2021.10 - 未完：读书 《机器学习实战：基于Scikit-Learn、Keras和TensorFlow》第二版**
 
-+ 学习笔记：[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)
++ 学习笔记：**[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)**
 
 
 
 #### **2021.11 - 未完：视频 机器学习白板推导**
 
-+ 视频地址：[机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)
++ 视频地址：**[机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)**
 
-+ 学习笔记：
++ 学习笔记：**Notability**
 
 
 
 #### **2021.11-未完： 读书 机器学习西瓜书**
 
-+ 学习笔记：
++ 学习笔记：**Notability**
 
 
 
