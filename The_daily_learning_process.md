@@ -26,3 +26,10 @@
 
 周六周日放两天假，明天一定好好学习...
 
+### 2021/11/8	周一
+
++ **[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)**	第一章代码示例学习完成
++ **[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)**	第二章end-to-end project复习完成
++ **[机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)** 白板推导 系列七二讲、三讲
+
+### 2021/11/9	周二
