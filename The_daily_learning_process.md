@@ -33,3 +33,18 @@
 + **[机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)** 白板推导 系列七二讲、三讲
 
 ### 2021/11/9	周二
+
++ **[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)** 读书
++ **[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)** 第二章练习题
+
+### 2021/11/10    周三
+
++ **[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)** 第四章
+
+### 2021/11/11   周四
+
++ **[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)** 第四章 模型训练读完
++ **[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)** 第三章 分类练习题
+
+### 2021/11/12   周五
+
