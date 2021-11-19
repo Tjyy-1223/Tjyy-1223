@@ -1,6 +1,4 @@
-### 学习记录：[The_daily_learning_process.md](https://github.com/Tjyy-1223/Tjyy-1223/blob/main/The_daily_learning_process.md)
-
-#### **2021.10 - 未完：读书 《利用python进行数据分析》**
+#### **2021.10 -2021.11.19《利用python进行数据分析》**
 
 + 学习笔记：**[ BookNote_PythonForDataAnalysis](https://github.com/Tjyy-1223/BookNote_PythonForDataAnalysis)**
 
@@ -9,14 +7,6 @@
 #### **2021.10 - 未完：读书 《机器学习实战：基于Scikit-Learn、Keras和TensorFlow》第二版**
 
 + 学习笔记：**[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)**
-
-
-
-#### **2021.11 - 未完：视频 机器学习白板推导**
-
-+ 视频地址：**[机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd?spm_id_from=333.999.0.0)**
-
-+ 学习笔记：**Notability**
 
 
 
