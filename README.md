@@ -1,6 +1,6 @@
 **日常更多使用Gitee进行学习记录**
 
-**My Gitee**：https://gitee.com/Tjyy_66bd
+**My Gitee**：https://gitee.com/tianjiangyu
 
 ------
 
