@@ -1,18 +1,28 @@
-#### **2021.10 -2021.11.19《利用python进行数据分析》**
+日常更多使用Gitee进行学习记录
 
-+ 学习笔记：**[ BookNote_PythonForDataAnalysis](https://github.com/Tjyy-1223/BookNote_PythonForDataAnalysis)**
+My Gitee：https://gitee.com/Tjyy_66bd
+
+------
+
+#### 01 动身学习深度学习  - pytorch
+
++ 学习笔记：[d2lpytorch](https://github.com/Tjyy-1223/d2lpytorch)
+
+#### 02 springboot2
+
+2022暑假 对springboot2进行一个全面学习,之后进行项目实践。
+
++ 学习笔记：[springboot2](https://github.com/Tjyy-1223/springboot2) 
+
+#### 03 Golang
+
+Golang语言学习，为分布式打基础
+
++ 学习笔记：[Golang](https://github.com/Tjyy-1223/Golang) 
 
 
 
-#### **2021.10 - 未完：读书 《机器学习实战：基于Scikit-Learn、Keras和TensorFlow》第二版**
 
-+ 学习笔记：**[Hands_On_Machine_Learning](https://github.com/Tjyy-1223/Hands_On_Machine_Learning)**
-
-
-
-#### **2021.11-未完： 读书 机器学习西瓜书**
-
-+ 学习笔记：**Notability**
 
 
 
