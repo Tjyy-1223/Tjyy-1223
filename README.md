@@ -4,19 +4,19 @@
 
 ------
 
-### 动身学习深度学习  - pytorch
+### 01 动身学习深度学习  - pytorch
 
 #### 学习笔记：https://github.com/Tjyy-1223/d2lpytorch
 
+------
 
-
-### springboot2
+### 02 springboot2
 
 #### 2022暑假 对springboot2进行一个基础学习。
 
 #### 学习笔记：https://github.com/Tjyy-1223/springboot2
 
-
+------
 
 ### 03 Golang
 
@@ -24,7 +24,7 @@
 
 #### 学习笔记：https://github.com/Tjyy-1223/Golang
 
-
+------
 
 ### 04 reggie_takeout_project
 
@@ -32,7 +32,9 @@
 
 #### 学习笔记：https://github.com/Tjyy-1223/reggie_takeout_project
 
+------
 
+### 
 
 | ![jy Tian's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjyy-1223&layout=compact&hide_border=true&langs_count=10) | ✨✨✨  | ![力扣数据](https://stats.justsong.cn/api/leetcode?username=Jy_Tian&cn=true) |
 | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
