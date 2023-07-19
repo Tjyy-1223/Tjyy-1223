@@ -6,7 +6,7 @@
 
 **Collaborative Inference:**
 
-+ [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://github.com/Tjyy-1223/Neurosurgen)
++ [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://github.com/Tjyy-1223/Neurosurgeon)
 + [Dynamic adaptive DNN surgery for inference acceleration on the edge(DADS)](https://github.com/Tjyy-1223/DADS)
 
 **JAVA:**
