@@ -13,11 +13,13 @@
 
 + [JAVA核心技术卷总结](https://github.com/Tjyy-1223/Core-Java-Volumn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjyy-1223&theme=deafult&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tjyy-1223&theme=deafult&show_icons=true)
 
 
 
-| ![jy Tian's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjyy-1223&layout=compact&hide_border=true&langs_count=10) | Good Morning | ![力扣数据](https://stats.justsong.cn/api/leetcode?username=Jy_Tian&cn=true) |
+| ![jy Tian's Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tjyy-1223&layout=compact&hide_border=true&langs_count=10) | Good Morning | ![力扣数据](https://stats.justsong.cn/api/leetcode?username=Jy_Tian&cn=true) |
 | :----------------------------------------------------------: | :----------: | :----------------------------------------------------------: |
 
 
