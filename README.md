@@ -6,12 +6,14 @@
 
 **Collaborative Inference:**
 
++ [Collaborative-Inference-Work-Summary](https://github.com/Tjyy-1223/Collaborative-Inference-Work-Summary)
+
 + [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://github.com/Tjyy-1223/Neurosurgeon)
 + [Dynamic adaptive DNN surgery for inference acceleration on the edge(DADS)](https://github.com/Tjyy-1223/DADS)
 
 **JAVA:**
 
-+ [JAVA核心技术卷总结](https://github.com/Tjyy-1223/Core-Java-Volumn)
++ [Java-Try-Best](https://github.com/Tjyy-1223/Java-Try-Best)
 
 
 
