@@ -17,24 +17,28 @@
 
 💻 Github：https://github.com/Tjyy-1223/Java-Try-Best
 
-+ **[1 Start: Core-Java](http://www.tjyy-blog.com/java%e6%a0%b8%e5%bf%83%e6%8a%80%e6%9c%af/)** 
-  + 1.1 Java核心技术 ( Java-Language )
-    + Java核心技术卷I 
-    + Java核心技术卷II
-    + Effective Java
+**[1 Start: Core-Java](http://www.tjyy-blog.com/java%e6%a0%b8%e5%bf%83%e6%8a%80%e6%9c%af/)** 
 
-+ **2 More Understand**
-  + 2.1 Java并发编程
-    + Java并发编程实战
-    + 实战Java高并发程序设计（第2版）
++ 1.1 Java核心技术 ( Java-Language )
+  + Java核心技术卷I 
+  + Java核心技术卷II
+  + Effective Java
 
-  + 2.2 JVM原理
-    + 深入理解Java虚拟机（第3版）
-    + Oracle JRockit: The Definitive Guide 
 
-+ **3 Excellent Framework**
-  + 3.1 Spring
+**2 More Understand**
 
++ 2.1 Java并发编程
+  + Java并发编程实战
+  + 实战Java高并发程序设计（第2版）
+
++ 2.2 JVM原理
+  + 深入理解Java虚拟机（第3版）
+  + Oracle JRockit: The Definitive Guide 
+
+
+**3 Excellent Framework**
+
++ 3.1 Spring
 
 
 
