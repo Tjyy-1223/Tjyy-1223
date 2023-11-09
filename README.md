@@ -2,6 +2,8 @@
 
 📗 Collabrative-inference is my research area and JAVA is my favorite language.
 
+📚 The same knowledge is more accessible in my Blog ：[Tjyy-Blog](http://www.tjyy-blog.com/)		
+
 🥳 Here are some of the projects I have implemented that I hope to learn with you:
 
 ## **Collaborative Inference:**
@@ -11,23 +13,9 @@
 + [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://github.com/Tjyy-1223/Neurosurgeon)
 + [Dynamic adaptive DNN surgery for inference acceleration on the edge(DADS)](https://github.com/Tjyy-1223/DADS)
 
-## **Java-Try-Best:  Java learning**
+## **Java learning**
 
-💻 Blog：http://www.tjyy-blog.com/ 
-
-💻 Github：https://github.com/Tjyy-1223/Java-Try-Best
-
-+ **[1 Start: Core-Java](http://www.tjyy-blog.com/java%e6%a0%b8%e5%bf%83%e6%8a%80%e6%9c%af/)** 
-  + Java核心技术 ( Java-Language )
-
-+ **2 More Understand**
-
-  + Java并发编程
-
-  + JVM原理
-
-+ **3 Excellent Framework**
-  + Spring
++  [Java-Try-Best: from Java language to Java framework](https://github.com/Tjyy-1223/Java-Try-Best)
 
 
 
