@@ -1,8 +1,6 @@
 😴 I am a student from Nanjing University of Aeronautics and Astronautics. 
 
-📗 Collabrative-inference is my research area and JAVA is my favorite language.
-
-📚 The same knowledge is more accessible in my Blog ：[Tjyy-Blog](http://www.tjyy-blog.com/)		
+📗 Collabrative-inference is my research area and JAVA is my favorite language.	
 
 🥳 Here are some of the projects I have implemented that I hope to learn with you:
 
@@ -12,10 +10,6 @@
 
 + [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](https://github.com/Tjyy-1223/Neurosurgeon)
 + [Dynamic adaptive DNN surgery for inference acceleration on the edge(DADS)](https://github.com/Tjyy-1223/DADS)
-
-## **Java learning**
-
-+  [Java-Try-Best: from Java language to Java framework](https://github.com/Tjyy-1223/Java-Try-Best)
 
 
 
