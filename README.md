@@ -4,6 +4,10 @@
 
 🥳 Here are some of the projects I have implemented that I hope to learn with you:
 
+## JAVA
+
++ [Super-JAVA-Book](https://github.com/Tjyy-1223/Super-Java-Book)
+
 ## **Collaborative Inference:**
 
 + [Collaborative-Inference-Work-Summary](https://github.com/Tjyy-1223/Collaborative-Inference-Work-Summary)
