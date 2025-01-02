@@ -4,9 +4,9 @@
 
 🥳 Here are some of the projects I have implemented that I hope to learn with you:
 
-## JAVA
+## Programer
 
-+ [Super-JAVA-Book](https://github.com/Tjyy-1223/Super-Java-Book)
++ [Super-Programmer-Book](https://github.com/Tjyy-1223/Super-Java-Book)
 
 ## **Collaborative Inference:**
 
