@@ -8,6 +8,13 @@
 
 + [Super-Programmer-Book](https://github.com/Tjyy-1223/Super-Java-Book)
 
+**My Go Learning：**
+
++ [Go 基础 - The Way To Go](https://github.com/Tjyy-1223/The-Way-To-Go)
+
++ [练手项目：StarCharts](https://github.com/Tjyy-1223/StarCharts)
++ [Go Web 框架学习 - The Way To Gin](https://github.com/Tjyy-1223/The-Way-To-Gin)
+
 ## **Collaborative Inference:**
 
 + [Collaborative-Inference-Work-Summary](https://github.com/Tjyy-1223/Collaborative-Inference-Work-Summary)
