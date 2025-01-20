@@ -15,6 +15,7 @@
 
 + [练手项目：StarCharts](https://github.com/Tjyy-1223/StarCharts)
 + [Go Web 框架学习 - The Way To Gin](https://github.com/Tjyy-1223/The-Way-To-Gin)
++ [Go ORM 框架学习 - The Way To GORM](https://github.com/Tjyy-1223/The-Way-To-Gorm/tree/main)
 
 ## **Collaborative Inference:**
 
