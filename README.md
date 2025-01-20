@@ -17,6 +17,10 @@
 + [Go Web 框架学习 - The Way To Gin](https://github.com/Tjyy-1223/The-Way-To-Gin)
 + [Go ORM 框架学习 - The Way To GORM](https://github.com/Tjyy-1223/The-Way-To-Gorm/tree/main)
 
+**常见后端组建：**
+
++ [MQ - RabbitMQ 实战指南 - 学习笔记](https://github.com/Tjyy-1223/Super-Programmer-Book/tree/master/%E6%B7%B1%E5%85%A5%E4%B8%8E%E8%BF%9B%E9%98%B6/3-MQ/%3CRabbitMQ%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%3E)
+
 ## **Collaborative Inference:**
 
 + [Collaborative-Inference-Work-Summary](https://github.com/Tjyy-1223/Collaborative-Inference-Work-Summary)
