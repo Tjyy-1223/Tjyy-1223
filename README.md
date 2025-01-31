@@ -21,6 +21,10 @@
 
 + [**RabbitMQ实战指南 - 总结**](https://github.com/Tjyy-1223/Super-Programmer-Book/tree/master/%E6%B7%B1%E5%85%A5%E4%B8%8E%E8%BF%9B%E9%98%B6/3-MQ/%3CRabbitMQ%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%3E)
 
+**前端搭建参考：**
+
++ [**Vue-TS-Guide 静态页面搭建指南**](https://github.com/Tjyy-1223/Vue-TS-Guide)
+
 ## **Collaborative Inference:**
 
 + **[Collaborative-Inference-Work-Summary](https://github.com/Tjyy-1223/Collaborative-Inference-Work-Summary)**
