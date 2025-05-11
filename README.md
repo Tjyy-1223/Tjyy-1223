@@ -11,17 +11,18 @@
 
 **My Go Learning：**
 
-1. **[Go 基础 - The Way To Go](https://github.com/Tjyy-1223/The-Way-To-Go)**
-2. **[Go Web 框架学习 - The Way To Gin](https://github.com/Tjyy-1223/The-Way-To-Gin)**
-3. **[Go ORM 框架学习 - The Way To GORM](https://github.com/Tjyy-1223/The-Way-To-Gorm/tree/main)**
++ **[Go 基础 - The Way To Go](https://github.com/Tjyy-1223/The-Way-To-Go)**
++ **[Go Web 框架学习 - The Way To Gin](https://github.com/Tjyy-1223/The-Way-To-Gin)**
++ **[Go ORM 框架学习 - The Way To GORM](https://github.com/Tjyy-1223/The-Way-To-Gorm/tree/main)**
++ **[Go 进阶学习]()**
 
 **后端中间件学习（读书笔记）：**
 
-1. [**RabbitMQ实战指南 - 总结**](https://github.com/Tjyy-1223/Super-Programmer-Book/tree/master/%E6%B7%B1%E5%85%A5%E4%B8%8E%E8%BF%9B%E9%98%B6/3-MQ/%3CRabbitMQ%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%3E)
++ [**RabbitMQ实战指南 - 总结**](https://github.com/Tjyy-1223/Super-Programmer-Book/tree/master/%E6%B7%B1%E5%85%A5%E4%B8%8E%E8%BF%9B%E9%98%B6/3-MQ/%3CRabbitMQ%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%3E)
 
 **项目学习：**
 
-1. **[Go-Web 项目 - Gin Blog 博客项目](https://github.com/Tjyy-1223/Gin-Vue-Admin/tree/main)**
++ **[Go-Web 项目 - Gin Blog 博客项目](https://github.com/Tjyy-1223/Gin-Vue-Admin/tree/main)**
 
 **前端搭建参考：**
 
